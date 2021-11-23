@@ -1,0 +1,45 @@
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+*.xcuserstate
+project.xcworkspace
+xcuserdata
+UserInterfaceState.xcuserstate
+project.xcworkspace/
+xcuserdata/
+UserInterface.xcuserstate
+
+## Build generated
+build/
+DerivedData/
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+#CocoaPods
+Pods/
+
+### Xcode Patch ###
+*.xcodeproj/*
+!LANG.xcodeproj/project.pbxproj
+!LANG.xcodeproj/xcshareddata/
+!LANG.xcworkspace/contents.xcworkspacedata
+/*.gcno
+
+
+/Export
